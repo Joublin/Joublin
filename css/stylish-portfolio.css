@@ -248,3 +248,11 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+/*Centering Service Components*/
+@media screen and (min-width: 769px) {
+    .center-services {
+        display: block;
+        margin-left: 25%;
+    }
+}
